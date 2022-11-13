@@ -1,0 +1,13 @@
+.d-flex input {
+    margin-bottom: 1.5rem;
+}
+
+.d-flex button {
+    margin-right: 2rem;
+    padding: 0.5rem 2rem;
+    margin-bottom: 1rem;
+}
+
+.container table {
+    margin: 1rem 10rem;
+}
