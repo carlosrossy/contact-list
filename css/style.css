@@ -11,3 +11,13 @@
 .container table {
     margin: 1rem 10rem;
 }
+
+table .btnedit {
+    color: lightgreen;
+    cursor: pointer;
+}
+
+table .btndelete {
+    color: red;
+    cursor: pointer;
+}
