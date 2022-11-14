@@ -9,7 +9,7 @@
 }
 
 .container table {
-    margin: 1rem 18rem;
+    margin: 1rem 20rem;
 }
 
 table .btnedit {
@@ -20,4 +20,8 @@ table .btnedit {
 table .btndelete {
     color: red;
     cursor: pointer;
+}
+
+header {
+    margin-top: 4em;
 }
