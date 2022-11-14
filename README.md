@@ -12,11 +12,10 @@ O que você pode fazer neste projeto:
 ## Executar aplicação
 ```bash
 # Clone este repositório
-$ git clone 
+$ git clone https://github.com/carlosrossy/contact-list.git
 
 # Entre na pasta do projeto.
-$ cd
-
+$ cd contact-list
 
 # Execute a aplicação
 $ Abra o Projeto no VScode
