@@ -8,3 +8,19 @@ O que você pode fazer neste projeto:
 * Crie dados e armazene-os no banco de dados Indexdb
 * Ler dados
 * Excluir dados (manualmente ou em massa)
+
+## Executar aplicação
+```bash
+# Clone este repositório
+$ git clone 
+
+# Entre na pasta do projeto.
+$ cd
+
+
+# Execute a aplicação
+$ Abra o Projeto no VScode
+$ Instale a Extesão Liver Sever
+$ Com o botão direito clique no Aquivo index.html
+$ pressione a opção open with Live Server ou Alt+L+Alt+O
+```
